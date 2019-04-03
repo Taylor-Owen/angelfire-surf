@@ -5,7 +5,9 @@ Surf internet history using archive.org's angelfire user list like a rougelike.
 ## Getting Started
 
 You need to download the user-list from https://archive.org/details/angelfire-users-all_201808
+
 You are going to use the *.users files. 
+
 Run the EXE and load any .users file you want and hit ROULETTE!
 
 ## Contributing
