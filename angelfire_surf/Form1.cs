@@ -56,5 +56,10 @@ namespace angelfire_surf
                 System.Diagnostics.Process.Start("http://angelfire.com/" + tmp);
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
